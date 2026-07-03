@@ -1,0 +1,44 @@
+
+.articleCardContainer{
+    box-shadow: #00ADB5 0px 5px 15px;
+    border-radius: 20px;
+    position: sticky;
+    top: 190px;
+}
+.cardHeader{
+    width: 85%;
+    position: relative;
+    top: -20px;
+    margin: auto;
+    text-align: center;
+}
+.cardHeader img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+.cardHeader h4{
+    margin-top: 20px;
+}
+.cardBody{
+    padding: 10px 15px;
+}
+.cardFooter{
+    padding: 0 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardFooter button{
+    margin: 0 5px;
+}
+
+.textJustify{
+    text-align: justify;
+}
+
+@media screen and (max-width: 576px) {
+  .articleSpacing {
+    margin-top: 30px;
+  }
+}

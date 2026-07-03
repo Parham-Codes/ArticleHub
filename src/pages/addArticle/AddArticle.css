@@ -1,0 +1,24 @@
+.formContainer{
+    
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: #222831;
+    max-width: 700px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.myInputs{
+    background-color: #d4d1d1 !important;
+    color: #393E46 !important;
+}
+
+.alertfont{
+    font-family: sans-serif;
+}
+
+
+@media screen and (max-width: 576px) {
+  .AddArticleSpacing {
+    margin-top: 100px;
+  }
+}

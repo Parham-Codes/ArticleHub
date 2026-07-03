@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Lalezar";
+  src: url("./assets/font/Lalezar.ttf");
+}
+@font-face {
+  font-family: "Yekan";
+  src: url("./assets/font/Yekan.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Yekan", sans-serif;
+}
+
+body {
+  direction: rtl !important;
+  background-color: rgb(57, 62, 70) !important;
+}
+
+.lalezar {
+  font-family: "Lalezar";
+}
+
+.textcolor {
+  color: #cfcfcf !important;
+}
+
+.justified {
+  text-align: justify;
+}
