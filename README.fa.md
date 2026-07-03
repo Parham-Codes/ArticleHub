@@ -1,6 +1,6 @@
 <p align="left">
 
-🌐 **زبان:** فارسی [🇺🇸 English](./README.md) | 🇮🇷
+🌐 **زبان:** فارسی [🇺🇸 English](./readme.md) | 🇮🇷
 
 </p>
 
