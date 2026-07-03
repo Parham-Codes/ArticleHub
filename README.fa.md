@@ -1,3 +1,11 @@
+<p align="left">
+
+🌐 **زبان:** فارسی [🇺🇸 English](./README.md) | 🇮🇷
+
+</p>
+
+---
+
 # 📰 ArticleHub
 
 <p align="center">

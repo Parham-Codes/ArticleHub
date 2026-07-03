@@ -1,3 +1,11 @@
+<p align="right">
+
+🌐 **Language:** 🇺🇸 English | [🇮🇷 فارسی](./README.fa.md)
+
+</p>
+
+---
+
 # 📰 ArticleHub
 
 <p align="center">
@@ -70,18 +78,18 @@
 
 # 🛠 Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| React 19 | Front-End Framework |
-| Vite | Build Tool |
-| React Router DOM | Routing |
-| Axios | API Requests |
-| Bootstrap 5 | Styling |
-| React Bootstrap | UI Components |
-| React Icons | Icons |
-| SweetAlert2 | Alerts |
-| JSON Server | Fake REST API |
-| PureCounter | Animated Counters |
+| Technology       | Usage               |
+| ---------------- | ------------------- |
+| React 19         | Front-End Framework |
+| Vite             | Build Tool          |
+| React Router DOM | Routing             |
+| Axios            | API Requests        |
+| Bootstrap 5      | Styling             |
+| React Bootstrap  | UI Components       |
+| React Icons      | Icons               |
+| SweetAlert2      | Alerts              |
+| JSON Server      | Fake REST API       |
+| PureCounter      | Animated Counters   |
 
 ---
 
