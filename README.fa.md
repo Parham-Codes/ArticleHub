@@ -217,7 +217,7 @@ http://localhost:3000
 Front-End Developer
 
 GitHub: https://github.com/Parham-Codes
-Email: parhamtaghikhani.31@example.com
+Email: parhamtaghikhani.31@gmail.com
 
 ---
 
