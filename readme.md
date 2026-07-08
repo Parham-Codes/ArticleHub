@@ -221,8 +221,8 @@ Email: parhamtaghikhani.31@example.com
 
 ---
 
-# ⭐ Support
+<div align="center">
 
-If you found this project useful, consider giving it a **Star ⭐** on GitHub.
+### ⭐ If you enjoyed this project, consider giving it a Star!
 
-It motivates me to build more awesome projects.
+</div>
